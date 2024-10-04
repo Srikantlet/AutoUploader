@@ -51,7 +51,7 @@ async def account_login(bot: Client, content, title, chatid, message_thread_id):
     raw_text2 = "360"
     if raw_text2 == "360":
         res = "640x360"
-    raw_text3 = "[🤡ᴍʀ ʜᴀᴄᴋᴇʀ🤡](https://t.me/ImTgHacker)"
+    raw_text3 = "[🤡『𝘚𝘢𝘳𝘬𝘢𝘳𝘪 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 』❤️🤡]"
     vspbatch = "RRB NTPC 2024 गतिमान बैच "
     MR = raw_text3
     thumb = "no"
